@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-bottom: 7px solid red;
+}
+
+footer{
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    border-top: 7px solid red;
+}
+
+.partial{
+    border: 1px solid red;
+    padding: 15px;
+}
+
+table th{
+    background-color: rgb(255, 145, 0);
+    padding: 10px 20px;
+}
+
+table td{
+    background-color: bisque;
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+
+.notice{
+    background: #ccf;
+    padding: 5px;
+}
